@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### Resources
+
+Smooth Scrolling in React: https://www.digitalocean.com/community/tutorials/how-to-implement-smooth-scrolling-in-react
