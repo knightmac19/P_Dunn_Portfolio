@@ -95,6 +95,8 @@ a:focus, a:hover {
   color: #64a19d !important;
 }
 
-p { 
+.text-white-50 { 
   color: rgba(255, 255, 255, 0.5);
 }
+
+
