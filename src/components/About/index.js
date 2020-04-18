@@ -13,6 +13,18 @@ import adirondacksGray from "../img/adirondacksGray.jpg";
 import huastecaGray from "../img/huastecaGray.jpg";
 import teotihuacanGray from "../img/teotihuacanGray.jpg";
 
+import cuttingBoard from "../img/cuttingBoard.jpeg";
+import moto from "../img/moto.jpeg";
+import rioSelfie from "../img/rioSelfie.jpeg";
+import rioSelfie2 from "../img/rioSelfie2.jpg";
+import shadowBoxes from "../img/shadowBoxes.jpeg";
+import wrigley from "../img/wrigley.jpeg";
+
+import addition from "../img/addition.jpg";
+import bernal from "../img/bernal.jpg";
+import chichen1 from "../img/chichen1.jpg";
+import chichen2 from "../img/chichen2.jpg";
+import chichen2x from "../img/chichen2x.jpg";
 
 
 function About() {
@@ -30,20 +42,20 @@ function About() {
         <div className="row mb-4">
           <div className="col-lg-3 mx-auto">
             <figure>
-            <img src={teotihuacan} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50">Teotihucan, Mexico</figcaption>
+            <img src={cuttingBoard} className="img-fluid rounded-circle" alt="" /> 
+              <figcaption className="text-white-50 mt-1"></figcaption>
             </figure>
           </div>
           <div className="col-lg-3 mx-auto">
           <figure>
-            <img src={teotihuacan} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50">Teotihucan, Mexico</figcaption>
+            <img src={shadowBoxes} className="img-fluid rounded-circle" alt="" /> 
+              <figcaption className="text-white-50 mt-1"></figcaption>
             </figure>
           </div>
           <div className="col-lg-3 mx-auto">
           <figure>
-            <img src={teotihuacan} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50">Teotihucan, Mexico</figcaption>
+            <img src={addition} className="img-fluid rounded-circle" alt="" /> 
+              <figcaption className="text-white-50 mt-1"></figcaption>
             </figure>
           </div>
         </div>
@@ -57,20 +69,20 @@ function About() {
         <div className="row mb-4">
           <div className="col-lg-3 mx-auto">
           <figure>
-            <img src={teotihuacan} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50">Teotihucan, Mexico</figcaption>
+            <img src={chichen1} className="img-fluid rounded-circle" alt="" /> 
+              <figcaption className="text-white-50 mt-1">Chichen Itza</figcaption>
             </figure>
           </div>
           <div className="col-lg-3 mx-auto">
           <figure>
             <img src={teotihuacan} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50">Teotihucan, Mexico</figcaption>
+              <figcaption className="text-white-50 mt-1">Teotihucan</figcaption>
             </figure>
           </div>
           <div className="col-lg-3 mx-auto">
           <figure>
-            <img src={teotihuacan} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50">Teotihucan, Mexico</figcaption>
+            <img src={chichen2x} className="img-fluid rounded-circle" alt="" /> 
+              <figcaption className="text-white-50 mt-1">Chichen Itza</figcaption>
             </figure>
           </div>
         </div>

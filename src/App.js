@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Main from "./pages/Main";
 import './App.css';
 
+
+
+
 function App() {
   return (
     <Router>
