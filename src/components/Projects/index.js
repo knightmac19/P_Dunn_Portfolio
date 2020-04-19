@@ -1,8 +1,6 @@
 import React from "react";
 import "./style.css";
-import bgMasthead from "../img/bg-masthead.jpg";
-import demoImage01 from "../img/demo-image-01.jpg";
-import demoImage02 from "../img/demo-image-02.jpg";
+
 import chazy from "../img/chazy.JPG";
 import teotihuacan from "../img/teotihuacan.JPG";
 import chichen2x from "../img/chichen2x.jpg";
