@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/R-profile/static/css/main.04b9aa4d.chunk.css",
+    "main.js": "/R-profile/static/js/main.5aa1cc17.chunk.js",
+    "main.js.map": "/R-profile/static/js/main.5aa1cc17.chunk.js.map",
+    "runtime-main.js": "/R-profile/static/js/runtime-main.f858045a.js",
+    "runtime-main.js.map": "/R-profile/static/js/runtime-main.f858045a.js.map",
+    "static/js/2.ebdcd009.chunk.js": "/R-profile/static/js/2.ebdcd009.chunk.js",
+    "static/js/2.ebdcd009.chunk.js.map": "/R-profile/static/js/2.ebdcd009.chunk.js.map",
+    "index.html": "/R-profile/index.html",
+    "precache-manifest.66eaad8562bc3d32f412cfa58b5646f3.js": "/R-profile/precache-manifest.66eaad8562bc3d32f412cfa58b5646f3.js",
+    "service-worker.js": "/R-profile/service-worker.js",
+    "static/css/main.04b9aa4d.chunk.css.map": "/R-profile/static/css/main.04b9aa4d.chunk.css.map",
+    "static/js/2.ebdcd009.chunk.js.LICENSE.txt": "/R-profile/static/js/2.ebdcd009.chunk.js.LICENSE.txt",
+    "static/media/addition.jpg": "/R-profile/static/media/addition.705ea9a2.jpg",
+    "static/media/chazy.JPG": "/R-profile/static/media/chazy.f58860c9.JPG",
+    "static/media/chichen1.jpg": "/R-profile/static/media/chichen1.5092ec93.jpg",
+    "static/media/chichen2x.jpg": "/R-profile/static/media/chichen2x.21b20f91.jpg",
+    "static/media/cuttingBoard.jpeg": "/R-profile/static/media/cuttingBoard.08caa40e.jpeg",
+    "static/media/engelberg.JPG": "/R-profile/static/media/engelberg.90c5fc43.JPG",
+    "static/media/style.css": "/R-profile/static/media/huasteca.ab716a29.JPG",
+    "static/media/shadowBoxes.jpeg": "/R-profile/static/media/shadowBoxes.4ad02277.jpeg",
+    "static/media/teotihuacan.JPG": "/R-profile/static/media/teotihuacan.8c4f1a66.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f858045a.js",
+    "static/js/2.ebdcd009.chunk.js",
+    "static/css/main.04b9aa4d.chunk.css",
+    "static/js/main.5aa1cc17.chunk.js"
+  ]
+}
