@@ -3,7 +3,7 @@ import "./style.css";
 
 function Header() {
   return <div>
-    <header className="masthead">
+    <header id="top" className="masthead">
       <div className="container d-flex h-100 align-items-center">
         <div className="mx-auto text-center">
           <h1 className="mx-auto my-0 text-uppercase">Patrick Dunn</h1>

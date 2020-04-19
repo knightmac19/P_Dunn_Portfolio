@@ -1,31 +1,12 @@
 import React from "react";
 import "./style.css";
-import ipad from "../img/ipad.png";
-import chazy from "../img/chazy.JPG";
-import engelberg from "../img/engelberg.JPG";
-import adirondacks from "../img/adirondacks.JPG";
-import huasteca from "../img/huasteca.JPG";
+
 import teotihuacan from "../img/teotihuacan.JPG";
-
-import chazyGray from "../img/chazyGray.jpg";
-import engelbergGray from "../img/engelbergGray.jpg";
-import adirondacksGray from "../img/adirondacksGray.jpg";
-import huastecaGray from "../img/huastecaGray.jpg";
-import teotihuacanGray from "../img/teotihuacanGray.jpg";
-
 import cuttingBoard from "../img/cuttingBoard.jpeg";
-import moto from "../img/moto.jpeg";
-import rioSelfie from "../img/rioSelfie.jpeg";
-import rioSelfie2 from "../img/rioSelfie2.jpg";
 import shadowBoxes from "../img/shadowBoxes.jpeg";
-import wrigley from "../img/wrigley.jpeg";
-
 import addition from "../img/addition.jpg";
-import bernal from "../img/bernal.jpg";
 import chichen1 from "../img/chichen1.jpg";
-import chichen2 from "../img/chichen2.jpg";
 import chichen2x from "../img/chichen2x.jpg";
-
 
 function About() {
   return <div>

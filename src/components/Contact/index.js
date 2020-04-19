@@ -3,7 +3,7 @@ import "./style.css";
 
 function Contact() {
   return <div>
-    <section className="contact-section bg-black">
+    <section id="contact" className="contact-section bg-black">
       <div className="container">
 
         <div className="row">
@@ -14,7 +14,7 @@ function Contact() {
                 <i className="fas fa-map-marked-alt text-primary mb-2"></i>
                 <h4 className="text-uppercase m-0">Address</h4>
                 <hr className="my-4"/>
-                <div className="small text-black-50">4923 Market Street, Orlando FL</div>
+                <div className="small text-black-50">New Hartford, Connecticut</div>
               </div>
             </div>
           </div>
@@ -26,7 +26,7 @@ function Contact() {
                 <h4 className="text-uppercase m-0">Email</h4>
                 <hr className="my-4"/>
                 <div className="small text-black-50">
-                  <a href="#">hello@yourdomain.com</a>
+                  <a href="#">patrick@thedunns.org</a>
                 </div>
               </div>
             </div>
@@ -38,24 +38,22 @@ function Contact() {
                 <i className="fas fa-mobile-alt text-primary mb-2"></i>
                 <h4 className="text-uppercase m-0">Phone</h4>
                 <hr className="my-4"/>
-                <div className="small text-black-50">+1 (555) 902-8832</div>
+                <div className="small text-black-50">+1 (860) 921-3424</div>
               </div>
             </div>
           </div>
         </div>
 
         <div className="social d-flex justify-content-center">
-          <a href="#" className="mx-2">
-            <i className="fab fa-twitter"></i>
+          <a href="https://www.linkedin.com/in/patrick-dunn-3a14249b/" target="_blank" rel="noopener noreferrer" className="mx-2">
+            <i className="fab fa-linkedin"></i>
           </a>
-          <a href="#" className="mx-2">
-            <i className="fab fa-facebook-f"></i>
-          </a>
-          <a href="#" className="mx-2">
+          
+          <a href="https://github.com/knightmac19" target="_blank" rel="noopener noreferrer" className="mx-2">
             <i className="fab fa-github"></i>
           </a>
         </div>
-
+        
       </div>
     </section>
   </div>
