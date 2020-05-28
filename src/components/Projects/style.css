@@ -2,6 +2,11 @@
   padding: 10rem 0;
 }
 
+
+.projects-section .img-main {
+  box-shadow: 10px 15px #64a19d;
+}
+
 .projects-section .featured-text {
   padding: 2rem;
 }

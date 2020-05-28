@@ -5,7 +5,7 @@ import teotihuacan from "../img/teotihuacan.JPG";
 import cuttingBoard from "../img/cuttingBoard.jpeg";
 import shadowBoxes from "../img/shadowBoxes.jpeg";
 import addition from "../img/addition.jpg";
-import chichen1 from "../img/chichen1.jpg";
+import SantaRosaDeViterbo from "../img/SantaRosaDeViterbo.jpeg";
 import chichen2x from "../img/chichen2x.jpg";
 
 function About() {
@@ -24,19 +24,19 @@ function About() {
           <div className="col-lg-3 mx-auto">
             <figure>
             <img src={cuttingBoard} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50 mt-1"></figcaption>
+              <figcaption className="text-white-50 mt-1">End-grain cutting board</figcaption>
             </figure>
           </div>
           <div className="col-lg-3 mx-auto">
           <figure>
             <img src={shadowBoxes} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50 mt-1"></figcaption>
+              <figcaption className="text-white-50 mt-1">Stairwell shadow boxes</figcaption>
             </figure>
           </div>
           <div className="col-lg-3 mx-auto">
           <figure>
             <img src={addition} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50 mt-1"></figcaption>
+              <figcaption className="text-white-50 mt-1">In-law apartment</figcaption>
             </figure>
           </div>
         </div>
@@ -50,8 +50,8 @@ function About() {
         <div className="row mb-4">
           <div className="col-lg-3 mx-auto">
           <figure>
-            <img src={chichen1} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50 mt-1">Chichen Itza</figcaption>
+            <img src={SantaRosaDeViterbo} className="img-fluid rounded-circle" alt="" /> 
+              <figcaption className="text-white-50 mt-1">Santa Rosa de Viterbo</figcaption>
             </figure>
           </div>
           <div className="col-lg-3 mx-auto">

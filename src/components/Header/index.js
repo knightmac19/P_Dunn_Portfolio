@@ -8,8 +8,9 @@ function Header() {
         <div className="mx-auto text-center">
           <h1 className="mx-auto my-0 text-uppercase">Patrick Dunn</h1>
           <h2 className="text-white mx-auto mt-2 mb-5">FULL STACK WEB DEVELOPER</h2>
-          <h2 className="text-white mx-auto mt-2 mb-0">HTML · CSS · Javascript · jQuery · mySQL</h2>
-          <h2 className="text-white mx-auto mt-2 mb-5">MongoDB · Express · React · Node.js</h2>
+          <h2 className="text-white mx-auto mt-2 mb-0">MongoDB · Express · React · Node.js</h2>
+          <h2 className="text-white mx-auto mt-2 mb-5">HTML · CSS · Javascript · mySQL</h2>
+          
           <a href="#about" className="btn btn-primary js-scroll-trigger">My Story</a>
         </div>
       </div>

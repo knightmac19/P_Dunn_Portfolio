@@ -16,8 +16,8 @@
 
 #mainNav .navbar-brand {
   color: #161616;
-  font-weight: 700;
-  padding: .9rem 0;
+  /* font-weight: 700;
+  padding: .9rem 0; */
 }
 
 #mainNav .navbar-nav .nav-item:hover {
@@ -41,12 +41,12 @@
   }
   #mainNav .navbar-brand {
     padding: .5rem 0;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255);
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255);
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);

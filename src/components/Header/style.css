@@ -32,6 +32,10 @@
   letter-spacing: 0.8rem;
   background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
   -webkit-text-fill-color: transparent;
+  /* opacity: 10%; */
+  /* opacity: 50%; */
+  /* opacity: 75%; */
+  /* opacity: 99%; */
   -webkit-background-clip: text;
 }
 
