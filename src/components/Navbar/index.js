@@ -16,6 +16,9 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarResponsive">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
+              {/* <h4>
+                <a className="nav-link js-scroll-trigger" href="">Resume</a>
+              </h4> */}
               <h4>
                 <a className="nav-link js-scroll-trigger" href="#about">My Story</a>
               </h4>
