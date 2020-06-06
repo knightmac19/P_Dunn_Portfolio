@@ -26,7 +26,7 @@ function Contact() {
                 <h4 className="text-uppercase m-0">Email</h4>
                 <hr className="my-4"/>
                 <div className="text-black-50">
-                  <a href="#">patrick@thedunns.org</a>
+                  <a href="#">pmdunn78@gmail.com</a>
                 </div>
               </div>
             </div>

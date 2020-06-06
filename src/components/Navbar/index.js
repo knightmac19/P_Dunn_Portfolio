@@ -17,7 +17,7 @@ function Navbar() {
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
               {/* <h4>
-                <a className="nav-link js-scroll-trigger" href="">Resume</a>
+                <a className="nav-link" href="https://github.com/knightmac19/R-profile/blob/master/public/PATRICK_DUNN_RESUME.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
               </h4> */}
               <h4>
                 <a className="nav-link js-scroll-trigger" href="#about">My Story</a>
