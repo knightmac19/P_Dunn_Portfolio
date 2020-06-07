@@ -27,7 +27,8 @@ function Projects() {
               <hr/>
               <div className="text-black-50 mb-0">
                 <h5>My role:</h5>
-                <p>Write the server routes connecting the user's input to the Mongo database.</p>
+                <p>Write server routes connecting a user's input to the Mongo database.</p>
+                <p>Manage state within the React application.</p>
               </div>
               
               <hr/>
@@ -44,6 +45,10 @@ function Projects() {
           </div>
         </div>
         {/* end / matrixio  */}
+        <br/>
+        <br/>
+        <br/>
+        <br/>
 
         <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div className="col-lg-6">

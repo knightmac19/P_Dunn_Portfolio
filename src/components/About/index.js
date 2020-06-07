@@ -51,19 +51,19 @@ function About() {
           <div className="col-lg-3 mx-auto">
           <figure>
             <img src={SantaRosaDeViterbo} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50 mt-1">Santa Rosa de Viterbo</figcaption>
+              <figcaption className="text-white-50 mt-1">Santiago de Querétaro</figcaption>
             </figure>
           </div>
           <div className="col-lg-3 mx-auto">
           <figure>
             <img src={teotihuacan} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50 mt-1">Teotihucan</figcaption>
+              <figcaption className="text-white-50 mt-1">Teotihuacán</figcaption>
             </figure>
           </div>
           <div className="col-lg-3 mx-auto">
           <figure>
             <img src={chichen2x} className="img-fluid rounded-circle" alt="" /> 
-              <figcaption className="text-white-50 mt-1">Chichen Itza</figcaption>
+              <figcaption className="text-white-50 mt-1">Chichén Itzá</figcaption>
             </figure>
           </div>
         </div>
