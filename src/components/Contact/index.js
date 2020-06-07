@@ -3,7 +3,13 @@ import "./style.css";
 
 function Contact() {
   return <div>
+  
     <section id="contact" className="contact-section bg-black">
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
       <div className="container">
 
         {/* resume, github, linkedin row */}
@@ -92,7 +98,14 @@ function Contact() {
         </div>
         
       </div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     </section>
+
   </div>
 };
 

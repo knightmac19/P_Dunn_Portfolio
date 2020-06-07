@@ -6,7 +6,8 @@ import "./style.css";
 // import engelberg from "../img/engelberg.JPG";
 import crimeStatsEqual from "../img/crimeStatsEqual.jpg";
 import employeeDir from "../img/employeeDir.jpg";
-import matrixio from "../img/matrixio.jpg";
+// import matrixio from "../img/matrixio.jpg";
+import matrixioGray from "../img/matrixioGray.jpg";
 
 function Projects() {
   return <div>
@@ -16,7 +17,7 @@ function Projects() {
         <div className="row align-items-center no-gutters mb-4 mb-lg-5">
           <div className="col-xl-8 col-lg-7">
             <a href="https://serene-river-18393.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-              <img className="img-fluid img-main mb-3 mb-lg-0" src={matrixio} alt="Matrixio"/>
+              <img className="img-fluid img-main mb-3 mb-lg-0" src={matrixioGray} alt="Matrixio"/>
             </a>
             
           </div>
