@@ -5,7 +5,7 @@ import teotihuacan from "../img/teotihuacan.JPG";
 import cuttingBoard from "../img/cuttingBoard.jpeg";
 import shadowBoxes from "../img/shadowBoxes.jpeg";
 import addition from "../img/addition.jpg";
-import SantaRosaDeViterbo from "../img/SantaRosaDeViterbo.jpeg";
+import SantaRosaDeViterbo from "../img/SantaRosaDeViterbo.jpg";
 import chichen2x from "../img/chichen2x.jpg";
 
 function About() {
