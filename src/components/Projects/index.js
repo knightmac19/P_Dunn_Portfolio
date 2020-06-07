@@ -2,8 +2,9 @@ import React from "react";
 import "./style.css";
 
 import chazy from "../img/chazy.JPG";
-import chichen2x from "../img/chichen2x.jpg";
+// import chichen2x from "../img/chichen2x.jpg";
 import engelberg from "../img/engelberg.JPG";
+import crimeStatsEqual from "../img/crimeStatsEqual.jpg";
 
 function Projects() {
   return <div>
@@ -53,7 +54,7 @@ function Projects() {
         <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div className="col-lg-6">
           <a href="https://knightmac19.github.io/CrimeStats/" target="_blank" rel="noopener noreferrer">
-            <img className="img-fluid" src={chichen2x} alt="Chichen Itza"/>
+            <img className="img-fluid" src={crimeStatsEqual} alt="Chichen Itza"/>
           </a>
             
           </div>
@@ -65,7 +66,7 @@ function Projects() {
                     <h3><strong>CrimeStats</strong></h3>
                   </a>
                   
-                  <p className="mb-0 text-white-50">Personal project combining FBI data and MapBoxGL to show relative crime bubbles across the 50 states from 2000 - 2018.</p>
+                  <p className="mb-0 text-white-50">Personal project combining FBI data and MapBox to show relative crime bubbles across the 50 states from 2000 - 2018.</p>
                   <hr className="d-none d-lg-block mb-0 ml-0"/>
                   <br/>
                   <div className="social d-flex justify-content-center">
