@@ -22,7 +22,7 @@ function Contact() {
                 <h4 className="text-uppercase m-0">Resume</h4>
                 <hr className="my-4"/>
                 <div className="text-black-50">
-                  <a href="https://knightmac19.github.io/Portfolio/assets/images/PATRICK_DUNN_RESUME.pdf" target="_blank" rel="noopener noreferrer">Patrick Dunn Resume</a>
+                  <a href="https://knightmac19.github.io/Portfolio/assets/images/PatrickDunnResume.pdf" target="_blank" rel="noopener noreferrer">Patrick Dunn Resume</a>
                 </div>
               </div>
             </div>
