@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Route exact path="/R-profile" component={Main} />
+        <Route exact path="/P_Dunn_Portfolio" component={Main} />
       </div>
     </Router>
   );
