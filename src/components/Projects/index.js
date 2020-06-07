@@ -1,10 +1,12 @@
 import React from "react";
 import "./style.css";
 
-import chazy from "../img/chazy.JPG";
+// import chazy from "../img/chazy.JPG";
 // import chichen2x from "../img/chichen2x.jpg";
-import engelberg from "../img/engelberg.JPG";
+// import engelberg from "../img/engelberg.JPG";
 import crimeStatsEqual from "../img/crimeStatsEqual.jpg";
+import employeeDir from "../img/employeeDir.jpg";
+import matrixio from "../img/matrixio.jpg";
 
 function Projects() {
   return <div>
@@ -14,7 +16,7 @@ function Projects() {
         <div className="row align-items-center no-gutters mb-4 mb-lg-5">
           <div className="col-xl-8 col-lg-7">
             <a href="https://serene-river-18393.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-              <img className="img-fluid img-main mb-3 mb-lg-0" src={engelberg} alt="Engelberg, Switzerland"/>
+              <img className="img-fluid img-main mb-3 mb-lg-0" src={matrixio} alt="Matrixio"/>
             </a>
             
           </div>
@@ -54,7 +56,7 @@ function Projects() {
         <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div className="col-lg-6">
           <a href="https://knightmac19.github.io/CrimeStats/" target="_blank" rel="noopener noreferrer">
-            <img className="img-fluid" src={crimeStatsEqual} alt="Chichen Itza"/>
+            <img className="img-fluid" src={crimeStatsEqual} alt="Crimes by State"/>
           </a>
             
           </div>
@@ -90,7 +92,7 @@ function Projects() {
         <div className="row justify-content-center no-gutters">
           <div className="col-lg-6">
           <a href="https://knightmac19.github.io/employee-directory-pmd/" target="_blank" rel="noopener noreferrer">
-            <img className="img-fluid" src={chazy} alt="Chazy Lake"/>
+            <img className="img-fluid" src={employeeDir} alt="Employee Directory"/>
           </a>
             
           </div>
