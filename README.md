@@ -4,6 +4,8 @@ Personal portfolio page built using React and Bootstrap.
 
 https://knightmac19.github.io/P_Dunn_Portfolio/
 
+![alt text](https://github.com/knightmac19/P_Dunn_Portfolio/blob/master/public/portfolioScreenshot.jpg)
+
 ## User Story
 
 As a Full Stack Web Developer I want to boost my visibility in order to increase my professional opportunities.
